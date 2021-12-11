@@ -4,3 +4,4 @@ Textbook/
 *.jpg
 *.mat
 *.pdf
+.DS_Store
